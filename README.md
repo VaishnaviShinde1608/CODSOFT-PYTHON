@@ -4,7 +4,9 @@ This repository contains all the tasks completed during my **Python Programming 
 
 ## 📌 Tasks Completed
 - **Task 1:** To-Do List Application
-- **Task 2:** Calculator 
+- **Task 2:** Calculator
+- **Task 3:** Password Generator
+- **Task 4:** Rock-Paper_Scissors Game
 
 Each folder includes the Python code for the respective task.  
 
