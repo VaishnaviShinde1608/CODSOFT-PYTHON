@@ -10,10 +10,3 @@ This repository contains all the tasks completed during my **Python Programming 
 
 Each folder includes the Python code for the respective task.  
 
----
-
-### 🎯 Internship Requirement
-✅ Minimum 3 tasks completed for successful completion.  
-✅ Repository maintained and shared for evaluation.  
-
----
